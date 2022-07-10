@@ -33,7 +33,8 @@
 # Install and Run the Project:-
 
     Command: Anaconda Prompt 
-    To run the Project type Jupyter notebook on this above command
+    
+    Jupyter notebook 
     
 # Author
 
